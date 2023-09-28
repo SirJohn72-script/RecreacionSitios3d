@@ -21,7 +21,7 @@ npm i three @types/three @react-three/fiber @react-three/drei gsap
 ```
 
 - **YouTube Tutorial**
-  - [YouTube]('link to youtube')
+  - [YouTube](https://youtu.be/9eYJx7L7Ii0?si=_BBR3i8bfywD01_7)
 
 # Autor
 
