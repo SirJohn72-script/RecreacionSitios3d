@@ -1,19 +1,25 @@
-# Recreación de Sitios 3D 👋
+# Repositorio de Recreación de Sitios 3D
 
-Este repositorio es una recopilación de recursos para recrear sitios en 3D que encuentres en plataformas como TikTok, YouTube, Instagram, y más. Si tienes alguna solicitud sobre cómo recrear un sitio en 3D específico, no dudes en contactarnos a través de nuestras redes sociales y estaremos encantados de considerar tu solicitud.
+¡Bienvenido al **Repositorio de Recreación de Sitios 3D**! Esta es tu fuente de inspiración y recursos para recrear increíbles entornos en 3D que encuentres en plataformas como TikTok, YouTube, Instagram y más. Nuestro objetivo es ayudarte a descubrir los secretos detrás de estos creativos sitios y proporcionarte las herramientas necesarias para dar vida a tus propias ideas en 3D.
 
-### Contacto
+### Cómo Funciona
+
+1. **Explora**: Navega por nuestra creciente lista de tutoriales y recursos que explican cómo recrear sitios 3D populares.
+
+2. **Solicita tu Creación**: ¿Tienes un sitio 3D específico en mente que te gustaría recrear? ¡Avísanos! Contáctanos a través de nuestras redes sociales y consideraremos tu solicitud.
+
+3. **Aprende y Colabora**: Descubre las tecnologías detrás de estas recreaciones, como Three.js, React-Three-Fiber, GLSL y Blender. Únete a nuestra comunidad para aprender, colaborar y compartir tus propias creaciones.
+
+### Contacto y Créditos
+
+Nos tomamos en serio dar crédito a los creadores originales. Al enviar una solicitud, asegúrate de mencionar al creador del contenido original. Puedes contactarnos en las siguientes redes sociales:
 
 - [TikTok](https://www.tiktok.com/@johnsscript?is_from_webapp=1&sender_device=pc)
 - [YouTube](https://www.youtube.com/c/JohnScript72)
 - [LinkedIn](https://www.linkedin.com/in/juanglezf/)
 
-Recuerda que, al enviarnos una solicitud, debes mencionar al creador original del video, publicación, etc., para que podamos dar el crédito que se merece cuando creamos el tutorial 😎
+### Descargo de Responsabilidad - Disclaimer
 
-### 💥💥 Disclaimer 💥💥
+Este repositorio tiene la intención de fomentar la creatividad y el aprendizaje, no la apropiación indebida de contenido. Si eres el creador de uno de los sitios 3D que hemos recreado y crees que debemos eliminarlo por violar tus derechos de autor, no dudes en contactarnos y tomaremos medidas de inmediato.
 
-El propósito de este repositorio no es robar contenido de otras personas, sino ayudar a las personas a obtener una idea de cómo recrear sitios 3D interesantes utilizando tecnologías como Three, React-Three-Fiber, GLSL, Blender, etc. Si crees que debemos eliminar un video porque viola tus derechos de autor, no dudes en enviarnos un mensaje y tomaremos las medidas necesarias. 🙌
-
-### Lista de Contenido
-
-1. **Dropify - TikTok** por [qclay.design](https://www.tiktok.com/@qclay.design/video/7282408836869131538)
+Únete a nosotros en esta emocionante aventura de exploración y creación en el mundo 3D. ¡Esperamos verte contribuir y aprender junto a nosotros!

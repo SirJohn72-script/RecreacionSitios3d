@@ -2,17 +2,20 @@
 
 ![dropify cover](./public/banner.PNG)
 
-**Tecnologias usadas**
+- **Tecnologias usadas**
 
-- React-Three-Fiber
-  - Fiber
-  - Drei
-- GSAP
+  - React-Three-Fiber
+    - Fiber
+    - Drei
+  - GSAP
 
-**Herramientas**
+- **Herramientas**
 
-- Blender
-- Figma Design
+  - Blender
+  - Figma Design
+
+- **YouTube Tutorial**
+  - [YouTube]('link to youtube')
 
 # Autor
 
